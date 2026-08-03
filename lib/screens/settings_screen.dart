@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../services/task_service.dart';
-import '../models/task.dart';
 import '../l10n/app_localizations.dart';
 import '../main.dart';
 
